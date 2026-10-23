@@ -699,3 +699,17 @@ Die arbeitsteilige Unterscheidung, mit der das Experiment lauffähig bleibt — 
 Das ist keine Abschwächung seines Satzes, sondern seine Konsequenz: Weil es keinen globalen Beobachter gibt, ist jede Zahl eine lokale Ablesung, und das Einzige, was zwischen zwei Ablesungen objektiv feststeht, ist ihr Verhältnis — R = Z_B/Z_A (A.7). Genau deshalb steht der Vergleichswert von 121 ns in E.10 als Gegendarstellung und nicht als Korrektur.
 
 Eine Selbstkonsistenz-Prüfung, in derselben Form wie A.14 (und wie dort als Angebot, nicht als Einwand): Wenn es keinen Standpunkt außerhalb des Systems gibt, dann ist keine Aussage global — auch nicht die Aussage „eine Konstante ist der Fehler". Auch dieser Satz gilt dann von einem Ort aus und nicht von allen. Das ist kein Gegenargument; es ist dieselbe Regel, ein zweites Mal angewandt. Es ist zugleich der Grund, warum der Bericht den Angriff des Konzepts auf Ebene 1 führt (Voraussetzung/Standpunkt) und den Vergleich auf Ebene 2 (Zahlen).
+
+---
+
+## Nachtrag vom 23. Oktober 2026 – Chronologie der Versuchsidee und Bezug zu Einstein (1911)
+
+**Dokumentation der eigenständigen Entwicklung.** Die vorliegende experimentelle Gegenhypothese und die Grundzüge des geplanten Vergleichs lokaler Uhren- und Frequenzmessungen wurden von Destiny Rai-Ko Pulvermacher am **2. Oktober 2026** schriftlich formuliert. Die Beschäftigung mit Albert Einsteins Veröffentlichung von **1911** erfolgte nach eigener Dokumentation erst am **10. Oktober 2026**, also nach der Formulierung des eigenen Versuchsansatzes. Dieser zeitliche Ablauf wird am **23. Oktober 2026** als Nachtrag festgehalten, ohne den ursprünglichen Entstehungszeitpunkt nachträglich zu verändern.
+
+**Historischer Bezug.** Einstein behandelte 1911 in „Über den Einfluß der Schwerkraft auf die Ausbreitung des Lichtes“ unter anderem den Zusammenhang zwischen Gravitationsfeld, Licht und der Frequenz beziehungsweise spektralen Verschiebung. Die nachträgliche Lektüre zeigte der Autorin eine inhaltliche Berührung mit ihrem eigenen Interesse an lokalen Frequenzmessungen und deren Vergleich unter unterschiedlichen physikalischen Bedingungen.
+
+**Einordnung durch die Autorin.** Destiny Rai-Ko Pulvermacher betrachtet diese historische Parallele als Bestärkung dafür, dass die gewählte Fragestellung physikalisch sinnvoll und untersuchenswert ist. Der eigene experimentelle Ansatz entstand nach ihrer Darstellung unabhängig von der späteren Lektüre der Arbeit von 1911.
+
+**Wissenschaftliche Abgrenzung.** Die historische Übereinstimmung einzelner Fragestellungen ist **kein experimenteller Nachweis** der Gegenhypothese und bedeutet nicht, dass Einsteins Argumentation von 1911 mit deren Vorhersagen identisch wäre. Ob die vorgeschlagene Versuchsanordnung zwischen unterschiedlichen physikalischen Vorhersagen unterscheiden kann, ist anhand definierter Messgrößen, eines tragfähigen Uhrenvergleichs, der Messunsicherheiten und unabhängiger Wiederholungen zu prüfen.
+
+**Primärquelle:** Einstein, Albert (1911): „Über den Einfluß der Schwerkraft auf die Ausbreitung des Lichtes“. *Annalen der Physik*, Band 35 (Gesamtzählung 340), Heft 10, S. 898–908. DOI: [10.1002/andp.19113401005](https://doi.org/10.1002/andp.19113401005). [Digitalisat und Text beim Max-Planck-Institut für Wissenschaftsgeschichte](https://echo-old.mpiwg-berlin.mpg.de/ECHOdocuViewSB?mode=texttool&url=%2Fpermanent%2Feinstein%2Fannalen%2FEinst_Ueber_de_1911%2Findex.meta&viewMode=text_image).
